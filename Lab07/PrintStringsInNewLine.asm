@@ -1,3 +1,5 @@
+; write a program that will print the name, id and section in new line
+
 .model small
 .stack 100h
 .data
